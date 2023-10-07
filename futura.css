@@ -1,0 +1,11 @@
+.ha{
+    color: rgb(11, 11, 11);
+    background-color: rgb(149, 84, 210);
+}
+.hi{
+    margin-left: 300px;margin-right: 240px;
+}
+.fc{
+   background-color: rgb(149, 85, 146); width: 180px; border:2px  rgb(65, 65, 173);margin-left:200px;padding: 40px;border-style: groove;border-top-right-radius: 60px;
+
+border-bottom-right-radius: 60px;border-bottom-left-radius: 60px;}
