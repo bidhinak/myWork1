@@ -1,11 +1,23 @@
 .ha{
     color: rgb(11, 11, 11);
-    background-color: rgb(149, 84, 210);
+    background-color: rgb(94, 175, 171);
 }
 .hi{
     margin-left: 300px;margin-right: 240px;
 }
 .fc{
-   background-color: rgb(149, 85, 146); width: 180px; border:2px  rgb(65, 65, 173);margin-left:200px;padding: 40px;border-style: groove;border-top-right-radius: 60px;
+    background-color: rgb(229, 197, 229); width: 180px; border:1px  rgb(56, 56, 142);margin-left:60px;padding: 40px;border-style: groove;border-top-right-radius: 60px;
 
-border-bottom-right-radius: 60px;border-bottom-left-radius: 60px;}
+border-bottom-right-radius: 60px;border-bottom-left-radius: 60px;
+}
+.fa{
+   margin-left: 90px; display: inline-flex;
+}
+.cf{background-color: aqua;width: 180px; border:1px  rgb(56, 56, 142);margin-left:60px;padding: 40px;border-style: groove;border-top-right-radius: 60px;
+
+    border-bottom-right-radius: 60px;border-bottom-left-radius: 60px;}
+    .cc{
+       background-color: azure; width: 180px; border:1px  rgb(56, 56, 142);margin-left:60px;padding: 40px;border-style: groove;border-top-right-radius: 60px;
+
+border-bottom-right-radius: 60px;border-bottom-left-radius: 60px;
+    }
